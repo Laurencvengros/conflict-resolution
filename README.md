@@ -1,3 +1,3 @@
 # conflict-resolution
 
-###Update tge remote README file on Github
+###Update the remote README file on Github
